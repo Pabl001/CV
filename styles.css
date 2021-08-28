@@ -1,0 +1,167 @@
+body {
+  background-color: #EAFFD0;
+  font-family: 'Chakra Petch', sans-serif;
+  margin: 0;
+  text-align: center;
+  color: #40514E
+}
+
+.top-container {
+  background-color: #FCE38A;
+  color: #B83B5E;
+  padding: 5px;
+  position: relative;
+  height: 100vh;
+}
+
+h1 {
+  color: #F38181;
+  font-family: 'Indie Flower', cursive;
+  font-size: 5.652rem;
+  margin: 20px;
+  padding-top: 25px;
+}
+
+h2 {
+  color: #F38181;
+  font-family: 'Amatic SC', cursive;
+  font-size: 3.7rem;
+  margin: 10px auto;
+  padding: 10px;
+  letter-spacing: .2rem;
+}
+h2 .subtitile {
+  font-weight: normal;
+  line-height: 2;
+  margin: 0;
+}
+
+p {
+  display: block;
+  line-height: 2;
+  font-size: 1.2rem;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+h3 {
+  color: #95E1D3;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+}
+
+hr{
+
+  color: #95E1D3;
+  width: 8%;
+  border-style: none;
+  border-top: dotted 5px;
+  margin: 80px auto;
+}
+
+a {
+  color: #95E1D3;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+}
+
+.mountain {
+  position: absolute;
+  width: 45vw;
+  bottom: 0;
+  left: 50%;
+  margin-left: -294px;
+}
+
+.profile-img {
+  margin: 20px auto 10px auto;
+}
+
+.profile {
+  margin: 10px auto 30px auto;
+}
+
+div .skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row img {
+  width: 25%;
+}
+
+.coding-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.jiuJitsu-img {
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me p {
+  width: 40%;
+  margin: auto;
+}
+.btn {
+  display: inline-block;
+  background: #3498db;
+background-image: -webkit-linear-gradient(top, #3498db, #236a96);
+background-image: -moz-linear-gradient(top, #3498db, #236a96);
+background-image: -ms-linear-gradient(top, #3498db, #236a96);
+background-image: -o-linear-gradient(top, #3498db, #236a96);
+background-image: linear-gradient(to bottom, #3498db, #236a96);
+-webkit-border-radius: 8;
+-moz-border-radius: 8;
+border-radius: 8px;
+font-family: Arial;
+color: #ffffff;
+font-size: 20px;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+ margin:40px auto;
+}
+
+.btn:hover {
+background: #3cb0fd;
+background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+text-decoration: none;
+
+}
+
+.bottom-container {
+  background-color: #364F6B;
+  height: 80px;
+  margin-top: 20px;
+  padding-top: 40px;
+  width: 100%;
+}
+
+.bottom-container p {
+  color: #e8eaec;
+  font-size: 0.6rem;
+  margin: 20px auto;
+}
+
+.footer-link {
+  margin: 10px;
+  text-decoration: none;
+}
